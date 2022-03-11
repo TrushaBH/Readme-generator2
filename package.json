@@ -1,0 +1,23 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "A readme generator for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrushaBH/Readme-generator2"
+  },
+  "author": "Trusha Bharadwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrushaBH/Readme-generator2/issues"
+  },
+  "homepage": "https://github.com/TrushaBH/Readme-generator2#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
